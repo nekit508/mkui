@@ -23,6 +23,7 @@ plugins {
 
 repositories {
 	mavenCentral()
+	maven("https://raw.githubusercontent.com/Zelaux/MindustryRepo/master/repository")
 	maven("https://www.jitpack.io")
 }
 
